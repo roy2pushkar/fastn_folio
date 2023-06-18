@@ -46,7 +46,7 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/roy2pushkar
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -72,7 +72,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Pushkar Roy,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -96,7 +96,7 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:roy2000pushkar@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
@@ -118,27 +118,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/roy2pushkar/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/roy2pushkar
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/roy2pushkar
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://www.instagram.com/pushkaroy/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: /
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:roy2000pushkar@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -154,8 +154,10 @@ image: $assets.files.images.mail.png
 ;; ------------------------------------------
 ;; ------------------------------------------
 
--- ftd.image:
-src: $assets.files.images.dog.png
+-- ftd.image: 
+src: $assets.files.images.dpimg.jpg
+width.fixed.px:400
+height.fixed.px:400
 
 -- end: ftd.row
 
